@@ -1,0 +1,19 @@
+{
+  "name": "learn",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "bun index.js",
+    "dev": "bun run dev",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "groq-sdk": "^0.27.0"
+  }
+}
