@@ -24,3 +24,9 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+# YouTube Transcript
+youtube-transcript-api
+
+# Vector Store
+faiss-cpu
